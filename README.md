@@ -1,6 +1,6 @@
 # Image analysis pipelines used in the manuscript *"Pseudomonas aeruginosa own transcriptional and post-transcriptional regulation of HQNO production controls competition with Staphylococcus aureus"*
 
-Łapińska U., *et al.* — *Science Advances* (in preparation)
+Łapińska U., *et al.* — *Science Advances*
 
 <!-- Add the Zenodo DOI badge here once available -->
 
