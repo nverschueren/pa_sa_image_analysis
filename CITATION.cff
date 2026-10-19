@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pa_sa_image_analysis"
+authors:
+  - family-names: "Verschueren van Rees"
+    given-names: "Nicolás"
+    affiliation: "University of Exeter"
+version: "v1"
+doi: "10.5281/zenodo.23214450"
+url: "https://github.com/nverschueren/pa_sa_image_analysis"
